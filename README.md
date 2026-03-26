@@ -1,1 +1,1 @@
-# Collection of Projects Using NASA Data for Elizabeth City
+# Collection of Projects Using NASA Data on Elizabeth City
